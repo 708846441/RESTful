@@ -5,6 +5,7 @@ then run the application using ./gradlew bootRun
 Now that the service is up, visit http://localhost:8080/greeting, where you see:
 
 	
+	
 ladder	
 
 0	"code"
